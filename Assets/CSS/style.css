@@ -36,6 +36,10 @@ body {
   color: #1F2833;
 }
 
+#about-me-details {
+  font-size: 20px;
+}
+
 .contact-info:hover,
 .navigation-info:hover {
   color: #C5C6C7;
