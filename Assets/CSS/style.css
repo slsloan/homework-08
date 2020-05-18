@@ -14,6 +14,18 @@ body {
   position: relative;
 }
 
+@media (max-width:450px) {
+  body {
+    height: 70%;
+  }
+}
+
+@media (max-width:450px) {
+.display-4 {
+  font-size: 30px;
+  }
+}
+
 #top-nav-links,
 #footer-container,
 .contact-info,
