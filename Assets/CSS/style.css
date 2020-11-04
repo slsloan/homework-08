@@ -158,3 +158,24 @@ body {
 .footer-headers {
   color: #0B0C10;
 }
+
+.html,
+.css,
+.JavaScript,
+.jQuery,
+.sass,
+.bootstrap,
+.nodeJS,
+.expressJS,
+.MySQL,
+.React,
+.mongodb,
+.firebase,
+.npm,
+.mern {
+  margin-top: 30px;
+  height: 80px;
+  width: auto;
+  border-radius: 50%;
+  padding: 0 10px;
+}
